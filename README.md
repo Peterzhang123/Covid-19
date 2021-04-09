@@ -1,7 +1,8 @@
 # Covid-19
 React covid 19 tracker app
 
-this project use below plugs
+This project use below plugs
+
 
  "dependencies": {
     "@material-ui/core": "^4.11.3",
