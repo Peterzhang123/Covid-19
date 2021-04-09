@@ -1,6 +1,10 @@
 # Covid-19
 React covid 19 tracker app
 
+You can track each country's total cases, recoverd case and death number.
+
+Also you can check some country's 2 month number change in chart.
+
 This project use below plugs
 
 
